@@ -3,7 +3,7 @@
 ## This is my intro into the world of SQL. I began with a rough idea of what SQL is and ended with a much deeper understanding. I knew that there were two things I need to learn. One, I wanted to make my own realtionship table. Two, I needed to learn how to write queries in SQL. 
 
 # Demonstration Video
-[SQL Software Demo Video](http://youtube.link.goes.here)
+[SQL Software Demo Video](https://youtu.be/0IiiBb-SD-Q)
 
 # Relational Database
 
